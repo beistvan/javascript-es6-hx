@@ -1,0 +1,1 @@
+const sumOfSquares = (a, b) => a * a + b * b;
