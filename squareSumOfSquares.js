@@ -1,0 +1,1 @@
+const squareSumOfSquares = (a, b) => square(sumOfSquares(a, b));
